@@ -9,7 +9,7 @@ Because, we want to build this community on the foundation of open source, so ev
 ## Projects
 
 * Cluster Innovation Centre Website - Complete re-write of website including a lot more, viz. student/teacher/admin(?), marks, assignments(ugh!), etc.
-* Quick static version of the above one - The above ~~may~~ will take a lot of time, so until then, we hope to make a quick, content focused, light-weight version of the website in [Jekyll](jekyllrb.com) or something similar.
+* [aphrodite](CIC002-aphrodite.md) - Quick static version of the above one - The above ~~may~~ will take a lot of time, so until then, we hope to make a quick, content focused, light-weight version of the website in [Jekyll](jekyllrb.com) or something similar.
 * Mobile applications - Okay, nobody wants to stare into a 14" screen for everything, so mobile apps are necessary.
 * HashInclude Portal - Not sure, this may be merged into the institute's site, or can be independent, we'll see.
 
